@@ -1,1 +1,29 @@
 
+*{
+  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 1.3rem;
+}
+
+
+
+
+.box{
+  position: relative;
+  justify-content: center;
+  width: 50%;
+  height: 50%;
+  align-items: center;
+  padding: 5%;
+  text-align: center;
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 20px;
+
+
+background: #D0D6F4;
+box-shadow: -5px 7px 4px rgba(120, 182, 201, 0.22);
+}
+
+
